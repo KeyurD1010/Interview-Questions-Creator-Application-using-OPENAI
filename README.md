@@ -14,4 +14,5 @@ This project allows users to upload a PDF file, extract all the questions from t
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/pdf-question-answer.git
-   cd pdf-question-answer
+   cd Interview-Questions-Creator-Application-using-OPENAI
+
